@@ -1,3 +1,5 @@
+//Equipe: Piazada, Alunos: Vinicius Alves Beló, Willian Penteado e Felipe Zorzo
+
 #include <iostream>
 #include <list>
 
